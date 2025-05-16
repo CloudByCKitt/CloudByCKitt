@@ -21,7 +21,7 @@ I bring leadership experience from healthcare and public sector environments whi
 - Google IT, Data Analytics, and Cybersecurity certificates
 
 ## 🎯 Career Goals
-I'm working toward a role in **cloud infrastructure engineering**, especially within **healthcare and hospital systems**, where I can apply cloud design and automation to improve reliability, compliance, and operations.
+I'm working toward a role in **cloud infrastructure engineering** where I can apply cloud design and automation to improve reliability, compliance, and operations.
 
 
 Feel free to explore my projects. I welcome feedback and am always open to learning! 🤖
